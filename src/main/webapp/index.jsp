@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Ashok IT Courses Demo</title>
+  <title>BTPark IT institute Demo</title>
   <style>
     body {
       font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
@@ -13,7 +13,7 @@
     }
 
     header {
-      background: linear-gradient(135deg, #004aad, #0073e6);
+      background: linear-gradient(135deg, #004aad, #00aaff);
       color: white;
       padding: 40px 20px;
       text-align: center;
@@ -110,43 +110,43 @@
 <body>
 
   <header>
-    <h1>🚀 Ashok IT Courses</h1>
-    <p>Upgrade your career with our industry-ready training programs</p>
+    <h1>BTPark IT institute</h1>
+    <p>Unlock your Tech Potential with Industry Experts & Career Oriented IT Software Training</p>
   </header>
 
   <div class="container">
     <div class="course-card">
       <div class="course-icon"><i class="fab fa-java"></i></div>
-      <div class="course-title">Java Full Stack Development</div>
+      <div class="course-title">Cloud & DevOps</div>
       <div class="course-desc">
-        Master Core Java, Spring Boot, Microservices, Angular, React & more to become a job-ready full-stack developer.
+        The Cloud & DevOps course provides with practical knowledge and hands-on experience in modern cloud computing and software deployment practices.
       </div>
       <a href="#" class="btn">Enroll Now</a>
     </div>
 
     <div class="course-card">
       <div class="course-icon"><i class="fab fa-python"></i></div>
-      <div class="course-title">Python Full Stack Development</div>
+      <div class="course-title">Data Science & AI</div>
       <div class="course-desc">
-        Learn Python, Django, REST APIs, React, and advanced deployment strategies for real-world projects.
+        The Data Science & AI course focuses on developing skills in data analysis, machine learning, and artificial intelligence.
       </div>
       <a href="#" class="btn">Enroll Now</a>
     </div>
 
     <div class="course-card">
       <div class="course-icon"><i class="fas fa-cloud"></i></div>
-      <div class="course-title">DevOps with AWS</div>
+      <div class="course-title">Programming Languages</div>
       <div class="course-desc">
-        Get hands-on with Docker, Kubernetes, Jenkins, Terraform & AWS Cloud to launch your DevOps career.
+        The Programming Languages course focusing on concepts like data structures, algorithms, and object-oriented programming.
       </div>
       <a href="#" class="btn">Enroll Now</a>
     </div>
 
     <div class="course-card">
       <div class="course-icon"><i class="fas fa-robot"></i></div>
-      <div class="course-title">Data Science & AI</div>
+      <div class="course-title">Software Testing</div>
       <div class="course-desc">
-        Become industry-ready with Machine Learning, Python, Deep Learning, NLP, and real-time data projects.
+        The Software Testing course provides knowledge of software quality assurance and testing techniques using tools such as Selenium, JUnit, TestNG.
       </div>
       <a href="#" class="btn">Enroll Now</a>
     </div>
