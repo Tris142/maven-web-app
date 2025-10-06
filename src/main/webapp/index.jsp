@@ -13,7 +13,7 @@
     }
 
     header {
-      background: linear-gradient(135deg, #004aad, #00aaff);
+      background: linear-gradient(135deg, #004aad, #0073e6);
       color: white;
       padding: 40px 20px;
       text-align: center;
@@ -119,7 +119,7 @@
       <div class="course-icon"><i class="fab fa-java"></i></div>
       <div class="course-title">Cloud & DevOps</div>
       <div class="course-desc">
-        The Cloud & DevOps course provides with practical knowledge and hands-on experience in modern cloud computing and software deployment practices.
+        The Cloud & DevOps course provides practical knowledge and hands-on experience in modern cloud computing & software deployment practices.
       </div>
       <a href="#" class="btn">Enroll Now</a>
     </div>
